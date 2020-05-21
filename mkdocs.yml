@@ -1,0 +1,19 @@
+site_name: About IETP
+site_url: https://about-ietp.netlify.com/
+site_description: List of resources with information about IETP
+site_author: osntask
+repo_name: osntask/about-ietp
+repo_url: https://github.com/osntask/about-ietp
+theme:
+  name: material
+  palette:
+    primary: midnightblue
+    accent: red
+extra:
+  social:
+    - type: github
+      link: https://github.com/osntask
+    - type: 'linkedin'
+      link: https://www.linkedin.com/in/osntask
+nav:
+  - "List of resources with information about IETP": "index.md"
