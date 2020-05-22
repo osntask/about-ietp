@@ -2,12 +2,33 @@
 
 ## Specifications
 
+### DITA
+> Darwin Information Typing Architecture - Advancing a document creation and
+management specification that builds content reuse into the authoring process
+
+- [OASIS DITA TC][SPEC_1] - OASIS DITA Technical Committee (TC) page
+    - [DITA Version 1.3 Part 0: Overview][SPEC_1.1]
+        - [Download pdf][SPEC_1.1.1]
+    - [DITA Version 1.3 Part 1: Base Edition][SPEC_2.1]
+        - [Download pdf][SPEC_1.2.1]
+    - [DITA Version 1.3 Part 2: Technical Content Edition][SPEC_1.3]
+        - [Download pdf][SPEC_1.3.1]
+    - [DITA Version 1.3 Part 3: All-Inclusive Edition][SPEC_1.4]
+        - [Download pdf][SPEC_1.4.1]
+
+#### About DITA
+
+> by languages
+
+- [English](./specifications/about-dita/english.md)
+- [Russian](./specifications/about-dita/russian.md)
+
 ### S1000D
 > International specification for technical publications using a common source
 database
 
-- [The S1000D web site][SPEC_1]
-    - [Download S1000D specifications, schemas, and related documents][SPEC_1.1]
+- [The S1000D web site][SPEC_2]
+    - [Download S1000D specifications, schemas, and related documents][SPEC_2.1]
 
 ## Standards
 
@@ -21,5 +42,14 @@ database
 
 - [Russia](./tools/russia.md)
 
-[SPEC_1]: http://public.s1000d.org/Pages/Home.aspx
-[SPEC_1.1]: http://public.s1000d.org/Downloads/Pages/S1000DDownloads.aspx
+[SPEC_1]: https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=dita
+[SPEC_1.1]: http://docs.oasis-open.org/dita/dita/v1.3/dita-v1.3-part0-overview.html
+[SPEC_1.1.1]: http://docs.oasis-open.org/dita/dita/v1.3/dita-v1.3-part0-overview.pdf
+[SPEC_1.2]: http://docs.oasis-open.org/dita/dita/v1.3/dita-v1.3-part1-base.html
+[SPEC_1.2.1]: http://docs.oasis-open.org/dita/dita/v1.3/dita-v1.3-part1-base.pdf
+[SPEC_1.3]: http://docs.oasis-open.org/dita/dita/v1.3/dita-v1.3-part2-tech-content.html
+[SPEC_1.3.1]: http://docs.oasis-open.org/dita/dita/v1.3/dita-v1.3-part2-tech-content.pdf
+[SPEC_1.4]: http://docs.oasis-open.org/dita/dita/v1.3/dita-v1.3-part3-all-inclusive.html
+[SPEC_1.4.1]: http://docs.oasis-open.org/dita/dita/v1.3/dita-v1.3-part3-all-inclusive.pdf
+[SPEC_2]: http://public.s1000d.org/Pages/Home.aspx
+[SPEC_2.1]: http://public.s1000d.org/Downloads/Pages/S1000DDownloads.aspx
