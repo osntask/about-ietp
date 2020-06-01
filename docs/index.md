@@ -29,6 +29,7 @@ database
 
 - [The S1000D web site][SPEC_2]
     - [Download S1000D specifications, schemas, and related documents][SPEC_2.1]
+    - [S1000D Tutorial][SPEC_2.2]
 
 ## Standards
 
@@ -40,6 +41,7 @@ database
 
 > by countries
 
+- [France](./tools/france.md)
 - [Russia](./tools/russia.md)
 
 [SPEC_1]: https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=dita
@@ -53,3 +55,4 @@ database
 [SPEC_1.4.1]: http://docs.oasis-open.org/dita/dita/v1.3/dita-v1.3-part3-all-inclusive.pdf
 [SPEC_2]: http://public.s1000d.org/Pages/Home.aspx
 [SPEC_2.1]: http://public.s1000d.org/Downloads/Pages/S1000DDownloads.aspx
+[SPEC_2.2]: http://s1000d.org/Downloads/Documents/2012_UF/Haslam%20Mally%20S1000D%20Tutorial.pdf
