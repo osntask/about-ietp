@@ -31,6 +31,12 @@ database
     - [Download S1000D specifications, schemas, and related documents][SPEC_2.1]
     - [S1000D Tutorial][SPEC_2.2]
 
+#### About S1000D
+
+> by languages
+
+- [Russian](./specifications/about-s1000d/russian.md)
+
 ## Standards
 
 > by countries
