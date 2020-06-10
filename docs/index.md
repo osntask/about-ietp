@@ -9,7 +9,7 @@ management specification that builds content reuse into the authoring process
 - [OASIS DITA TC][SPEC_1] - OASIS DITA Technical Committee (TC) page
     - [DITA Version 1.3 Part 0: Overview][SPEC_1.1]
         - [Download pdf][SPEC_1.1.1]
-    - [DITA Version 1.3 Part 1: Base Edition][SPEC_2.1]
+    - [DITA Version 1.3 Part 1: Base Edition][SPEC_1.2]
         - [Download pdf][SPEC_1.2.1]
     - [DITA Version 1.3 Part 2: Technical Content Edition][SPEC_1.3]
         - [Download pdf][SPEC_1.3.1]
@@ -37,6 +37,19 @@ database
 
 - [Russian](./specifications/about-s1000d/russian.md)
 
+### ASD/AIA SX000i
+> International guide for the use of the S-Series Integrated Logistics Support
+(ILS) specifications
+
+- [The ASD/AIA SX000i web site][SPEC_3]
+    - [The S-Series ILS specifications][SPEC_3.1]
+
+#### About SX000i
+
+> by languages
+
+- [Russian](./specifications/about-sx000i/russian.md)
+
 ## Standards
 
 > by countries
@@ -62,3 +75,5 @@ database
 [SPEC_2]: http://public.s1000d.org/Pages/Home.aspx
 [SPEC_2.1]: http://public.s1000d.org/Downloads/Pages/S1000DDownloads.aspx
 [SPEC_2.2]: http://s1000d.org/Downloads/Documents/2012_UF/Haslam%20Mally%20S1000D%20Tutorial.pdf
+[SPEC_3]: http://www.sx000i.org/
+[SPEC_3.1]: http://www.sx000i.org/docs/The_S-Series_of_ILS%20specifications-Overview.pdf
